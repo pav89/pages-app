@@ -25,7 +25,7 @@ SECRET_KEY = 'wsb1!x9%6q7@bwqo0d@szox36vj_6i7&%c$1_k0)+1_^=@@hxx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
